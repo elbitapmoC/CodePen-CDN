@@ -1,5 +1,7 @@
 html,
 body {
+  padding:0;
+  margin:0;
   min-height: 100%;
   background-color: #f2f2f2;
 }
@@ -22,7 +24,7 @@ h2 {
 .example {
   background: white;
   border-radius: 5px;
-  box-shadow: 0 1px 4px 0 rgba(0,0,0,0.37);
+  box-shadow: 0px 1px 4px 0 rgba(34,34,34,0.37);
   max-width: 700px;
   margin: 0px auto 50px;
 }
@@ -46,7 +48,7 @@ a {
 
 .example-definition .example-content {
   min-height: 0px;
-  font-size: 30px;
+  font-size: 23px;
   line-height: 1.5;
   font-weight: 100;
   color: #444;
