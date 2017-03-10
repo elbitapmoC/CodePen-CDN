@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,400,700');
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:200,300,400');
 
 html,
 body {
@@ -7,7 +7,7 @@ body {
   min-height: 100%;
   background-color: #f2f2f2;
   font-family: "Work Sans", sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 h1 {
   text-align: center;
   font-family: "Work Sans", sans-serif;
-  font-size: 4.5rem;
+  font-size: 4.3rem;
   color: #222;
   font-weight: 200;
   text-transform: uppercase;
@@ -57,7 +57,7 @@ p {
 }
 
 a {
-  color: DeepSkyBlue
+  color: #5E6EC7;
 }
 
 .hide {
@@ -68,6 +68,6 @@ a {
   min-height: 0px;
   font-size: 23px;
   line-height: 1.5;
-  font-weight: 200;
-  color: #444;
+  font-weight: 300;
+  color: #222;
 }
